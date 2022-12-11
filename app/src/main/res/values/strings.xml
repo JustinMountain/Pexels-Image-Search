@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Pexels Image Search</string>
+
+    <string name="button_pexels" translatable="false">Pexels</string>
+    <string name="button_movies">Movies</string>
+    <string name="button_tickets">Tickets</string>
+    <string name="button_soccer">Soccer</string>
+
+    <string name="pexels_title" translatable="false">Pexels</string>
+    <string name="pexels_search_button">Search</string>
+    <string name="pexels_credit_header">Photographer:</string>
+    <string name="pexels_URL_header" translatable="false">Pexels URL:</string>
+    <string name="pexels_height_header">Height (in pixels):</string>
+    <string name="pexels_width_header">Width (in pixels):</string>
+    <string name="pexels_toast_search">Searching for </string>
+    <string name="pexels_alert_title">Question: </string>
+    <string name="pexels_alert_add">Do you want to add this photo to your favorites?</string>
+    <string name="pexels_alert_remove">Do you want to remove this photo from your favorites?</string>
+    <string name="pexels_alert_yes">Yes</string>
+    <string name="pexels_alert_no">No</string>
+    <string name="pexels_snackbar_added">Photo added to favorites</string>
+    <string name="pexels_snackbar_not_unique">Photo already in favorites</string>
+    <string name="pexels_snackbar_removed">Photo removed from favorites</string>
+    <string name="pexels_menu_help_title">Help</string>
+    <string name="pexels_menu_help_message">1) Search the Pexels Image Database by entering a query at the bottom of the page and clicking search.\n\n2) When you find a picture you like, click on it to see more information.\n\n3) If you love the photo, click on the heart icon to add it to your favorites.\n\n4) Access your favorites by clicking the heart icon in the bottom left corner next to the query field.</string>
+    <string name="pexels_menu_help_ok" translatable="false">OK</string>
+    <string name="pexels_drawer_title">Pexels Image Search</string>
+    <string name="pexels_drawer_subtitle">I need help!</string>
+    <string name="pexels_drawer_author" translatable="false">Justin Mountain</string>
+    <string name="pexels_drawer_author_email" translatable="false">moun0048@algonquinlive.com</string>
+    <string name="pexels_drawer_version">Version 0.40</string>
+</resources>

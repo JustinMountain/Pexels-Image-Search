@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/pexels_menu_help"
+        android:title="Help"
+        app:showAsAction="never" />
+
+    <!--    <item-->
+    <!--        android:id="@+id/pexels_menu_about"-->
+    <!--        android:title="About"-->
+    <!--        app:showAsAction="never" />-->
+
+    <item
+        android:id="@+id/pexels_menu_movies"
+        android:title="Movies"
+        android:icon="@drawable/menu_movies"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/pexels_menu_soccer"
+        android:title="Football"
+        android:icon="@drawable/menu_soccer"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/pexels_menu_ticketmaster"
+        android:title="Ticketmaster"
+        android:icon="@drawable/menu_ticketmaster"
+        app:showAsAction="always" />
+
+</menu>

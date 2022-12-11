@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CST2335_FinalProject</string>
+    <string name="button_movies">Filmes</string>
+    <string name="button_soccer">Futebol</string>
+    <string name="button_tickets">Bilhetes</string>
+    <string name="pexels_search_button">Procurar</string>
+    <string name="pexels_credit_header">Fotógrafo:</string>
+    <string name="pexels_height_header">Altura (em pixels)</string>
+    <string name="pexels_width_header">Largura (em pixels)</string>
+    <string name="pexels_toast_search">Procurando por</string>
+    <string name="pexels_alert_title">Pergunta:</string>
+    <string name="pexels_alert_add">Quer adicionar esta foto aos seus favoritos?</string>
+    <string name="pexels_alert_remove">Deseja remover esta foto de seus favoritos?</string>
+    <string name="pexels_alert_yes">Sim</string>
+    <string name="pexels_alert_no">Não</string>
+    <string name="pexels_snackbar_added">Foto adicionada aos favoritos</string>
+    <string name="pexels_snackbar_not_unique">A foto já está nos favoritos</string>
+    <string name="pexels_snackbar_removed">Foto removida dos favoritos</string>
+    <string name="pexels_menu_help_title">Ajuda</string>
+    <string name="pexels_menu_help_message">1) Pesquise no banco de dados de imagens Pexels inserindo uma consulta na parte inferior da página e clicando em pesquisar.\n\n2) Ao encontrar uma imagem que lhe agrade, clique nela para ver mais informações.\n\n3) Se você gostou da foto, clique no ícone do coração para adicioná-la aos seus favoritos.\n\n4) Acesse seus favoritos clicando no ícone de coração no canto inferior esquerdo ao lado do campo de consulta.</string>
+    <string name="pexels_drawer_title">Pesquisa de Imagens Pexels</string>
+    <string name="pexels_drawer_subtitle">Preciso de ajuda</string>
+    <string name="pexels_drawer_version">"Versão 0.40 "</string>
+</resources>
